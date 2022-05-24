@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 .bin
 data/ 
+ColBERT/
+experiments/

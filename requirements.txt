@@ -1,0 +1,9 @@
+torch==1.10.0
+ujson==4.0.2
+transformers==4.17.0
+datasets== 2.0.0
+spacy==3.2.4
+gitpython==3.1.27
+cupy-cuda111==10.4.0
+faiss-gpu==1.7.0
+openai==0.18.1
