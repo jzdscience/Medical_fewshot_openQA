@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
 .bin
 data/ 
-ColBERT/
+ColBERT/docs/downloads/
+ColBERT/docs/experiments/
 experiments/
