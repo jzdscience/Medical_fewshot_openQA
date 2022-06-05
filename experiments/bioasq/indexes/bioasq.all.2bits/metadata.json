@@ -35,7 +35,7 @@
         "root": "\/home\/zhanj289\/projects\/cs224u_nlu_project\/experiments",
         "experiment": "bioasq",
         "index_root": null,
-        "name": "2022-05\/25\/19.21.36",
+        "name": "2022-06\/04\/22.10.41",
         "rank": 0,
         "nranks": 1,
         "amp": true,
