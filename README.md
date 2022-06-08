@@ -1,4 +1,4 @@
-# cs224u_project_22spr
+
 
 ## Medical Few-shot Open QA
 
@@ -18,3 +18,4 @@ ColBERT index for BioASQ data is located at experiements/bioasq/
 
 Many absolute path is used, so be careful
 
+This is developed for stanford CS224U course project
